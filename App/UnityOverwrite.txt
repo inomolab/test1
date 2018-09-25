@@ -9,7 +9,7 @@ New Unity Project 4.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 New Unity Project 4\App.cs: 36064379F9123968B5B06A3636996F68
-New Unity Project 4\New Unity Project 4.csproj: A3A5B212EDA7F616272A620B143B40CA
+New Unity Project 4\New Unity Project 4.csproj: 7AE159204302394E537EADF499F0000F
 New Unity Project 4\New Unity Project 4.csproj.user: modified
 New Unity Project 4\Package.appxmanifest: 8182D15636D746423F85C28154E89375
 New Unity Project 4\project.json: 1D02BC64BAC0D041019673A1C4C51737
